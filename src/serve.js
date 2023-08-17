@@ -1,6 +1,9 @@
 /* eslint-disable linebreak-style */
 /* eslint-disable no-console */
 /* eslint-disable import/extensions */
+
+/* Aditya Akbar Subakti */
+
 const Hapi = require('@hapi/hapi');
 const routes = require('./routes.js');
 
